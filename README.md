@@ -1,7 +1,7 @@
 # Advanced Custom ECU Calibration Engineering & 300+ DAMOS / A2L / ORI Packs — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Official Platform](https://img.shields.io/badge/Official_Software-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/advanced-tuning-winols)
-[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5414%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
+[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5591%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
 
 Need a bespoke calibration for a rare SW ID, hybrid turbo build, or deep map pack reference? Combine **[Advanced Custom Engineering](https://www.davincideluxe.fr/advanced-tuning-winols)** with our **[300-Pack Digital Shop](https://www.davincideluxe.fr/shop)**.
 
